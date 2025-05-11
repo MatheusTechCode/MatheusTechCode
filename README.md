@@ -5,7 +5,7 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 # 👋 Olá! Eu sou Matheus Freitas Rocha
 
 ## ⚡ GitHub Stats
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&theme=gruvbox)
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=lightblue&title_color=green&text_color=fff)
 
 ## 📊 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&theme=dracula)
