@@ -1,13 +1,37 @@
-## Hi there 👋
+""# 👋 Olá! Eu sou MatheusTechCode
 
-**MatheusTechCode/MatheusTechCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvolvimento de software, focados em tecnologias modernas e soluções escaláveis.
 
-## ⚡ GitHub Stats
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&theme=onedark)
+---
 
-## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&theme=onedark)
+## 🚀 **Sobre Mim**
+- 👨‍💻 Engenheiro de Software com experiência em desenvolvimento web
+- 🌱 Atualmente, trabalhando em projetos pessoais e aprimorando habilidades em Java, Spring Boot e tecnologias Cloud.
+- 🎯 Focado em criar aplicações performáticas e bem estruturadas.
 
-## 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=ondedark&hide_border=true)
+---
 
+## 🛠️ **Tecnologias e Ferramentas**
+- Frontend: JavaScript, HTML5, CSS3
+- Backend: Java, Spring Boot, MongoDB
+- Outros: Docker, Git, GitHub Actions, AWS
+
+---
+
+## 📌 **Meus Projetos**
+Aqui estão alguns dos projetos que venho desenvolvendo:
+- [Page-Casamento](https://github.com/MatheusTechCode/Page-Casamento) – Página interativa para evento de casamento.
+- [Calculadora-Simples](https://github.com/MatheusTechCode/Calculadora-Simples) – Uma calculadora simples em JavaScript.
+- [Projeto-Android](https://github.com/MatheusTechCode/Projeto-Android) – Aplicativo Android com funcionalidades diversas.
+
+---
+
+## 📫 **Onde me encontrar?**
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/matheus-freitas-rocha)
+- E-mail: seu.email@dominio.com
+
+---
+
+## ⭐ **Vamos nos conectar!**
+Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões e melhorias. Vou adorar trocar ideias e colaborar em projetos open-source.  
+""
