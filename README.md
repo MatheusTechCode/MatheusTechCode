@@ -5,13 +5,14 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 # 👋 Olá! Eu sou Matheus Freitas Rocha
 
 ## ⚡ GitHub Stats
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=lightblue&title_color=green&text_color=fff)
+## ⚡ GitHub Stats
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&theme=synthwave)
 
 ## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&theme=synthwave)
 
 ## 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=dracula&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=synthwave&hide_border=true)
 
 
 ---
