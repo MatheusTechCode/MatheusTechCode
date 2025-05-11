@@ -7,13 +7,14 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 ## ⚡ GitHub Stats
 ## ⚡ GitHub Stats
 ## ⚡ GitHub Stats
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=4c1d95&title_color=6366f1&text_color=f0f8ff&icon_color=6366f1)
+## ⚡ GitHub Stats
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=000000&title_color=a855f7&text_color=60a5fa&icon_color=a855f7)
 
 ## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&bg_color=4c1d95&title_color=6366f1&text_color=f0f8ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&bg_color=000000&title_color=a855f7&text_color=60a5fa)
 
 ## 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=dracula&hide_border=true&background=4c1d95&stroke=6366f1&ring=f0f8ff&fire=6366f1&currStreakNum=f0f8ff&currStreakLabel=6366f1&sideNums=f0f8ff&sideLabels=6366f1)
+![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=dracula&hide_border=true&background=000000&stroke=a855f7&ring=60a5fa&fire=a855f7&currStreakNum=60a5fa&currStreakLabel=a855f7&sideNums=60a5fa&sideLabels=a855f7)
 
 
 ---
