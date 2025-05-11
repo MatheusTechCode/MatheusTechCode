@@ -6,13 +6,14 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 
 ## ⚡ GitHub Stats
 ## ⚡ GitHub Stats
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&theme=synthwave)
+## ⚡ GitHub Stats
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=4c1d95&title_color=6366f1&text_color=f0f8ff&icon_color=6366f1)
 
 ## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&bg_color=4c1d95&title_color=6366f1&text_color=f0f8ff)
 
 ## 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=synthwave&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=dracula&hide_border=true&background=4c1d95&stroke=6366f1&ring=f0f8ff&fire=6366f1&currStreakNum=f0f8ff&currStreakLabel=6366f1&sideNums=f0f8ff&sideLabels=6366f1)
 
 
 ---
