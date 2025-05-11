@@ -1,12 +1,9 @@
-""# 👋 Olá! Eu sou MatheusTechCode
+# 👋 Olá! Eu sou Matheus Freitas Rocha
 
 Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvolvimento de software, focados em tecnologias modernas e soluções escaláveis.
 
 # 👋 Olá! Eu sou Matheus Freitas Rocha
 
-## ⚡ GitHub Stats
-## ⚡ GitHub Stats
-## ⚡ GitHub Stats
 ## ⚡ GitHub Stats
 ![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=000000&title_color=a855f7&text_color=60a5fa&icon_color=a855f7)
 
@@ -43,7 +40,7 @@ Aqui estão alguns dos projetos que venho desenvolvendo:
 
 ## 📫 **Onde me encontrar?**
 - LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/matheus-freitas-rocha)
-- E-mail: seu.email@dominio.com
+- E-mail: matheus.tech.code@gmail.com
 
 ---
 
