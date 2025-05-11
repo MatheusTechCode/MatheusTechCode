@@ -2,6 +2,18 @@
 
 Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvolvimento de software, focados em tecnologias modernas e soluções escaláveis.
 
+# 👋 Olá! Eu sou Matheus Freitas Rocha
+
+## ⚡ GitHub Stats
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&theme=dracula)
+
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTechCode&layout=compact&theme=dracula)
+
+## 🔥 Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=MatheusTechCode&theme=dracula&hide_border=true)
+
+
 ---
 
 ## 🚀 **Sobre Mim**
