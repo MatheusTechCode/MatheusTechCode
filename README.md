@@ -46,9 +46,11 @@ Aqui estão alguns dos projetos que venho desenvolvendo:
 Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões e melhorias. Vou adorar trocar ideias e colaborar em projetos open-source.  
 ""
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Java" width="30">
-<img src="html5-icon.png" alt="HTML5" width="30">
-<img src="css3-icon.png" alt="CSS3" width="30">
-<img src="springboot-icon.png" alt="Spring Boot" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CSS3" width="30">
+<img src="https://files.fm/u/6gfx8n53jx" alt="Spring Boot" width="30">
 <img src="javascript-icon.png" alt="JavaScript" width="30">
 <img src="Python-icon.png" alt="Python" width="30">
+
+
