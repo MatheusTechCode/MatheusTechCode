@@ -4,12 +4,14 @@ Seja bem vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://unpkg.com/simple-icons@latest/icons/java.svg" alt="Java" width="30" height="30" style="vertical-align: middle;">
+  <img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML5" width="30" height="30" style="vertical-align: middle;">
+  <img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS3" width="30" height="30" style="vertical-align: middle;">
+  <img src="https://unpkg.com/simple-icons@latest/icons/spring-boot.svg" alt="Spring Boot" width="30" height="30" style="vertical-align: middle;">
+  <img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="30" height="30" style="vertical-align: middle;">
+  <img src="https://unpkg.com/simple-icons@latest/icons/python.svg" alt="Python" width="30" height="30" style="vertical-align: middle;">
+</p>
 
 <br>
 
