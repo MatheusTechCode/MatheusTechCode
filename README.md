@@ -1,9 +1,5 @@
 👋 Olá! Eu sou Matheus Freitas Rocha
 
-Seja bem vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvolvimento de software, focados em tecnologias modernas e soluções escaláveis.
-
-<br>
-
 <p align="left">
   <img src="https://unpkg.com/simple-icons@latest/icons/java.svg" alt="Java" width="30" height="30" style="vertical-align: middle;">
   <img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML5" width="30" height="30" style="vertical-align: middle;">
@@ -13,7 +9,7 @@ Seja bem vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
   <img src="https://unpkg.com/simple-icons@latest/icons/python.svg" alt="Python" width="30" height="30" style="vertical-align: middle;">
 </p>
 
-<br>
+Seja bem vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvolvimento de software, focados em tecnologias modernas e soluções escaláveis.
 
 ## ⚡ Estatísticas do GitHub
 ![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&theme=dracula)
@@ -36,9 +32,9 @@ Seja bem vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Frontend: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-Backend: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-Outros: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+Frontend: <img src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="20" height="20" style="vertical-align: middle;"> JavaScript, <img src="https://unpkg.com/simple-icons@latest/icons/html5.svg" alt="HTML5" width="20" height="20" style="vertical-align: middle;"> HTML5, <img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" alt="CSS3" width="20" height="20" style="vertical-align: middle;"> CSS3
+Backend: <img src="https://unpkg.com/simple-icons@latest/icons/java.svg" alt="Java" width="20" height="20" style="vertical-align: middle;"> Java, <img src="https://unpkg.com/simple-icons@latest/icons/spring-boot.svg" alt="Spring Boot" width="20" height="20" style="vertical-align: middle;"> Spring Boot, <img src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg" alt="MongoDB" width="20" height="20" style="vertical-align: middle;"> MongoDB
+Outros: <img src="https://unpkg.com/simple-icons@latest/icons/docker.svg" alt="Docker" width="20" height="20" style="vertical-align: middle;"> Docker, <img src="https://unpkg.com/simple-icons@latest/icons/git.svg" alt="Git" width="20" height="20" style="vertical-align: middle;"> Git, <img src="https://unpkg.com/simple-icons@latest/icons/github-actions.svg" alt="GitHub Actions" width="20" height="20" style="vertical-align: middle;"> GitHub Actions, <img src="https://unpkg.com/simple-icons@latest/icons/amazonaws.svg" alt="AWS" width="20" height="20" style="vertical-align: middle;"> AWS
 
 ---
 
