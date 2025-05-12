@@ -11,6 +11,12 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontra projetos de desenvol
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40">
 
 </p>
+## 📫 Onde me encontrar?
+
+<p align="left">
+<a href="https://www.linkedin.com/in/matheus-freitas-rocha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://www.instagram.com/omatheuss____/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="mailto:matheus.tech.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+</p>
 
 ## ⚡ GitHub Stats
 ![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTechCode&show_icons=true&bg_color=000000&title_color=a855f7&text_color=60a5fa&icon_color=a855f7)
